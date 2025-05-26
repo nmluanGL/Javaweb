@@ -14,7 +14,7 @@
 <!--  content -->
  <!-- catg header banner section -->
   <section id="aa-catg-head-banner">
-  <img src="${pageContext.request.contextPath}/view/client/assets/images/archive-banner.png" alt="banner blog">
+  <img src="${pageContext.request.contextPath}/view/client/assets/images/archive-banner1.png" alt="banner blog">
     <div class="aa-catg-head-banner-area">
      <div class="container">
       <div class="aa-catg-head-banner-content">

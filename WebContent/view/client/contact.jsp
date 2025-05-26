@@ -46,17 +46,26 @@
              <div class="row">
                <div class="col-md-7">
          			 <div class="aa-contact-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.2324288146733!2d106.80161941474984!3d10.869918392258143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527587e9ad5bf%3A0xafa66f9c8be3c91!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBDw7RuZyBuZ2jhu4cgVGjDtG5nIHRpbiDEkEhRRyBUUC5IQ00!5e0!3m2!1svi!2s!4v1589002140777!5m2!1svi!2s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3835.733926173207!2d108.25064671020758!3d15.975265441883662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3142108997dc971f%3A0x1295cb3d313469c9!2sVietnam%20-%20Korea%20University%20of%20Information%20and%20Communication%20Technology!5e0!3m2!1sen!2s!4v1747128371092!5m2!1sen!2s" 
+    width="100%" 
+    height="450" 
+    frameborder="0" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
            </div>
                </div>
                <div class="col-md-5">
                  <div class="aa-contact-address-right">
                    <address>
-                     <h4>Nông Sản 24</h4>
+                     <h4>CLOTHING STORE</h4>
                      <p>Liên hệ cho chúng tôi bất cứ khi nào bạn cần.</p>
-                     <p><span class="fa fa-home"></span>Nông Sản, Khu phố 6, Linh Trung, Thủ Đức, TP.HCM</p>
-                     <p><span class="fa fa-phone"></span>037.7026.186</p>
-                     <p><span class="fa fa-envelope"></span>Email: contact@nongsan24.com</p>
+                     <p><span class="fa fa-home"></span>470 Trần Đại Nghĩa - Ngũ Hành Sơn - TP.ĐN</p>
+                     <p><span class="fa fa-phone"></span>038.5109.397</p>
+                     <p><span class="fa fa-envelope"></span>Email: contact@mailuan345@gmail.com</p>
                    </address>
                  </div>
                </div>

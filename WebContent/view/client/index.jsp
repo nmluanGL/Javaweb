@@ -26,10 +26,10 @@
               <div class="col-md-5 no-padding">                
                 <div class="aa-promo-left">
                   <div class="aa-promo-banner">                    
-                    <img src="${url}/images/section1_tc.jpg" alt="dâu tây Đà Lạt">                    
+                    <img src="${url}/images/section1_tc1.jpg" alt="Áo sơ mi trắng và quần đen">                    
                     <div class="aa-prom-content">
                       <span>Giảm giá 35%</span>
-                      <h4>Dâu tây Đà Lạt</h4>                      
+                      <h4>Áo sơ mi trắng và quần đen</h4>                      
                     </div>
                   </div>
                 </div>
@@ -39,37 +39,37 @@
                 <div class="aa-promo-right">
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/section2_tc.jpg" alt="hạt tiêu daklak">                      
+                      <img src="${url}/images/section2_tc1.jpg" alt="SET ĐỒ MÁT MẺ">                      
                       <div class="aa-prom-content">
-                        <span>Sản Phẩm độc quyền</span>
-                        <h4>Hạt tiêu DakLak</h4>                        
+                        <span>BỘ SƯU TẬP MỚI</span>
+                        <h4>SET ĐỒ MÁT MẺ</h4>                        
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/section3_tc.jpg" alt="img">                      
+                      <img src="${url}/images/section3_tc1.jpg" alt="img">                      
                       <div class="aa-prom-content">
-                        <span>Sản phẩm nhập khẩu</span>
-                        <h4>Cherry Mỹ</h4>                        
+                        <span>PHONG CÁCH NĂNG ĐỘNG</span>
+                        <h4>THỜI TRANG HÀN QUỐC</h4>                        
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/section4_tc.jpg" alt="img">                      
+                      <img src="${url}/images/section4_tc1.jpg" alt="img">                      
                       <div class="aa-prom-content">
                         <span>Giảm giá 25%</span>
-                        <h4>Tinh Dầu Sả</h4>                        
+                        <h4> ÁO PHÔNG CƠ BẢN</h4>                        
                       </div>
                     </div>
                   </div>
                   <div class="aa-single-promo-right">
                     <div class="aa-promo-banner">                      
-                      <img src="${url}/images/section5_tc.jpg" alt="img">                      
+                      <img src="${url}/images/section5_tc1.jpg" alt="img">                      
                       <div class="aa-prom-content">
-                        <span>Sản phẩm độc quyền</span>
-                        <h4>Mật ong rừng Tây Bắc</h4>                        
+                        <span>CHẤT LIỆU THOÁNG MÁT</span>
+                        <h4>ÁO THUN THỂ THAO</h4>                        
                       </div>
                     </div>
                   </div>
@@ -81,6 +81,8 @@
       </div>
     </div>
   </section>
+  
+  
   <!-- / Promo section -->
   <!-- Products section -->
   <section id="aa-product">
@@ -92,10 +94,10 @@
               <div class="aa-product-inner">
                 <!-- start prduct navigation -->
                  <ul class="nav nav-tabs aa-products-tab">
-                    <li class="active"><a href="#raucu" data-toggle="tab">Rau Củ Quả</a></li>
-                    <li><a href="#hat" data-toggle="tab">Các Loại Hạt</a></li>
-                    <li><a href="#traicay" data-toggle="tab">Trái Cây </a></li>
-                    <li><a href="#matong" data-toggle="tab">Mật Ong & Tinh Dầu</a></li>
+                    <li class="active"><a href="#raucu" data-toggle="tab">Áo Thun</a></li>
+                    <li><a href="#hat" data-toggle="tab">Áo Sơ Mi</a></li>
+                    <li><a href="#traicay" data-toggle="tab">Quần Tây</a></li>
+                    <li><a href="#matong" data-toggle="tab">Quần Ống rộng</a></li>
                   </ul>
                   <!-- Tab panes -->
                   <div class="tab-content">
@@ -277,7 +279,7 @@
         <div class="col-md-12">        
           <div class="row">
             <div class="aa-banner-area">
-            <a href="#"><img src="${url}/images/banner_tc.jpg" alt="banner trang chủ"></a>
+            <a href="#"><img src="${url}/images/banner_tc1.jpg" alt="banner trang chủ"></a>
           </div>
           </div>
         </div>
@@ -478,13 +480,13 @@
               <!-- single slide -->
               <li>
                 <div class="aa-testimonial-single">
-                <img class="aa-testimonial-img" src="${url}/images/avatar.jpg" alt="avatar 1">
+                <img class="aa-testimonial-img" src="${url}/images/avatar111.jpg" alt="avatar 1">
                   <span class="fa fa-quote-left aa-testimonial-quote"></span>
                   <p>Tôi đã mua hàng ở cửa hàng khá nhiều lần rồi, và tôi cảm thấy sản phẩm của cửa hàng 
                     được giao khá nhanh và sản phẩm thì tốt.</p>
                   <div class="aa-testimonial-info">
-                    <p>Ngọc Huy</p>
-                    <span>Nhân viên kinh doanh</span>
+                    <p>Mai Luận</p>
+                    <span>Sinh Viên</span>
                   </div>
                 </div>
               </li>

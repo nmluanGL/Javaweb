@@ -19,10 +19,10 @@
             <div class="row">
               <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
-                  <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo_footer.jpg" alt="logo img" width="185px"></a> 
+                  <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo_quocthien_footer.png" alt="logo img" width="185px"></a> 
                   <ul class="aa-footer-nav">
 
-                    <li><p style="color:#888; text-align: justify; width: 95%">Là nơi chuyên buôn bán tất cả các mặt hàng về nông sản chất lượng. Chúng tôi luôn đặt tiêu chí về chất lượng và uy tín lên hàng đầu.</p></li>
+                    <li><p style="color:#888; text-align: justify; width: 95%">Là nơi chuyên buôn bán tất cả các mặt hàng về thời trang chất lượng. Chúng tôi luôn đặt tiêu chí về chất lượng và uy tín lên hàng đầu.</p></li>
                     <li><img src="${pageContext.request.contextPath}/view/client/assets/images/dadangky.png" alt="logo img" width="40%"></li>
                   </ul>
                 </div>
@@ -44,9 +44,9 @@
                   <div class="aa-footer-widget">
                     <h3>LIÊN HỆ</h3>
                     <address>
-                      <p>Khu phố 6 - P.Linh Trung - Q.Thủ Đức - TP HCM</p>
-                      <p><span class="fa fa-phone"></span>037.7026.186</p>
-                      <p><span class="fa fa-envelope"></span>webnongsan@gmail.com</p>
+                      <p>470 Trần Đại Nghĩa - Ngũ Hành Sơn -  TP.DN</p>
+                      <p><span class="fa fa-phone"></span>038.5109.397</p>
+                      <p><span class="fa fa-envelope"></span>mailuan345@gmail.com</p>
                     </address>
                     <div class="aa-footer-social">
                       <a href="#"><span class="fab fa-facebook"></span></a>
@@ -69,7 +69,7 @@
         <div class="row">
         <div class="col-md-12">
           <div class="aa-footer-bottom-area">
-            <p>Copyright 2020 &copy VT3 Team</p>
+            <p>Copyright 2025 &copy MaiLuan&TrungHieu</p>
             <div class="aa-footer-payment">
               <span class="fab fa-cc-mastercard"></span>
               <span class="fab fa-cc-visa"></span>
