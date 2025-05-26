@@ -46,25 +46,28 @@ Thư mục `admin` chứa các file JSP dành cho quản trị viên:
 
 ---
 
-## 🗄️ Cơ sở dữ liệu (Database)
+🗄️ Cơ sở dữ liệu (Database)
+Sử dụng MySQL làm hệ quản trị cơ sở dữ liệu chính cho phần backend và admin web.
 
-* Sử dụng **MySQL** làm hệ quản trị cơ sở dữ liệu chính cho phần backend và admin web.
+Các bảng chính bao gồm:
 
-* Các bảng chính bao gồm:
+👨‍💼 admin - quản lý tài khoản quản trị viên
 
-  * 👤 `users`: quản lý tài khoản người dùng và admin
-  * 👚 `products`: thông tin quần áo
-  * 🗂 `categories`: danh mục sản phẩm
-  * 🛒 `orders`: đơn hàng
-  * 📦 `order_items`: chi tiết đơn hàng
-  * ⭐ `reviews`: đánh giá sản phẩm
-  * 🎫 `discounts`: mã giảm giá
+👤 users - quản lý tài khoản người dùng
 
-* Kết nối giữa Spring Boot và MySQL được cấu hình qua file `application.properties` hoặc `application.yml`.
+📰 boardnew - quản lý tin tức / bài viết
 
-* ORM JPA/Hibernate giúp ánh xạ dữ liệu giữa các bảng và đối tượng Java, dễ dàng thao tác CRUD.
+🗂 catalog - danh mục sản phẩm
 
----
+🛒 ordered - thông tin đơn hàng
+
+👟 productreview - đánh giá sản phẩm
+
+💳 transactions - giao dịch thanh toán
+
+Kết nối giữa Spring Boot và MySQL được cấu hình qua file application.properties hoặc application.yml.
+
+ORM JPA/Hibernate giúp ánh xạ dữ liệu giữa các bảng và đối tượng Java, hỗ trợ thao tác CRUD hiệu quả.
 
 ## 💰 Thanh toán
 
@@ -72,17 +75,16 @@ Thư mục `admin` chứa các file JSP dành cho quản trị viên:
 
 ---
 
-## 🚀 Hướng dẫn cài đặt
+🚀 Hướng dẫn cài đặt
+Phần quản trị (ADMIN)
+Mở thư mục WebContent/admin-web trong Visual Studio Code hoặc IDE bạn sử dụng.
 
-### Phần quản trị (ADMIN)
+Chạy lớp Admin.java để khởi động backend và admin web.
 
-1. Mở thư mục `Onix/admin-web` trong Visual Studio Code hoặc IDE bạn sử dụng.
-2. Chạy lớp `Admin.java` để khởi động backend và admin web.
-3. Mở trình duyệt và truy cập:
-   `http://localhost:8080/do-an-java/admin/login`
-4. Thực hiện các thao tác thêm, sửa, xóa sản phẩm, danh mục, và xem thống kê doanh thu.
+Mở trình duyệt và truy cập:
+http://localhost:8080/do-an-java/admin/login
 
----
+Thực hiện các thao tác thêm, sửa, xóa sản phẩm, danh mục, và xem thống kê doanh thu.
 
 ## 👤 Phần người dùng (Client)
 
@@ -113,4 +115,3 @@ Thư mục `admin` chứa các file JSP dành cho quản trị viên:
 
 ---
 
-Nếu bạn cần mình thêm icon hoặc sửa phần nào nữa, cứ nói nhé!
